@@ -1,34 +1,47 @@
+# 👋 Hi, I'm Sambhaji Shinde  
 
-# Welcome to Sambhaji Shinde's GitHub Profile 👋
+🎓 **B.Tech in Artificial Intelligence & Data Science (2025)**  
+🚀 Passionate about **AI, Data Science, and Full-Stack Development** with real-world project experience in **GenAI, Agentic AI, RAG and Model Context Protocol (MCP)**.  
 
-## About Me
+---
 
-I'm a final-year engineering student specializing in Artificial Intelligence and Data Science with a passion for web development. I enjoy building impactful projects and solving complex problems using a variety of technologies.
+## 💡 About Me  
+- ✅ Strong foundation in **AI, ML, DL, NLP and Data Science** with hands-on projects.  
+- 🤖 Exploring the latest technologies like **Generative AI, Agentic AI, RAG and MCP**.  
+- 🌐 Practical experience in **building real-life applications** with AI + Web.  
+- 🛠️ Skilled in **Python, Data Analysis, ML, DL, NLP, GenAI, Agentic AI, Django, FastAPI, MySQL, Streamlit**.  
+- 📚 Lifelong learner, constantly upgrading myself with modern AI & Dev tools.  
 
-## 🚀 Skills & Technologies
+---
 
-- **Languages :** HTML, CSS, JavaScript, Java, Python
-- **Frameworks & Libraries :** Django, scikit-learn, React
-- **Tools & Technologies :** Git, SQL
-- **Data Science :** Machine Learning, Data Analysis, Data Visualization
+## 🛠️ Tech Stack  
+**Languages:** Python  
+**AI & ML:** Scikit-learn, TensorFlow, Keras, NLTK, LangChain, RAG, OpenAI APIs, Hugging Face  
+**Frameworks:** Django, Flask, FastAPI
+**Databases:** MySQL 
+**Tools & Platforms:**  Git, GitHub, Docker, Postman  
 
-## 📚 Education
+---
 
-- **Maharashtra Institute Of Technology (MIT)**
-  - Bachelor’s in Engineering with a focus on Artificial Intelligence and Data Science
-  - Expected Graduation : June/2025
+## 📌 Featured Projects  
+- 🔹 **ChatMe** – Real-time Chat App with Redis + WebSockets  
+- 🔹 **Emanage** – Employee Management System (React + Django + MySQL)  
+- 🔹 **iCompressor** – Image & PDF Compressor with QR Sharing & API  
+- 🔹 **House Price Predictor** – ML-powered price prediction model  
+- 🔹 **Library Management System** – Python OOP + File handling  
+- 🔹 **GenAI + RAG Chatbot** *(In Progress)* – AI assistant with LangChain & Vector Stores  
 
-## 🌟 Currently Working On
+---
 
-I’m currently working on React+Django, aiming to Online Meeting Platform (MeetHub).
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
 
-## 🌐 Connect With Me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/sambhaji-shinde-1679ab309/)
-- [Instagram](https://www.instagram.com/sambhaji_26/)
+## 📫 Let's Connect  
+- 💼 LinkedIn: [https://www.linkedin.com/in/sambhaji-shinde-1679ab309/](#)  
+- 🌍 Portfolio: [-](#)  
+- 📧 Email: **sambhajisshinde725@gmail.com**  
 
-## 🛠️ Tools & Technologies
-
-- **Code Editors :** VSCode, PyCharm, Jupyter-Notebook
-- **Version Control :** Git, GitHub
-- **Databases :** MySQL, PostgreSQL
+⭐ *Open to full-time roles, and collaborations in AI, Data Science, and Web Development!*  
