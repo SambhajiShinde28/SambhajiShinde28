@@ -15,11 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python  
-**AI & ML:** Scikit-learn, TensorFlow, Keras, NLTK, LangChain, RAG, OpenAI APIs, Hugging Face  
-**Frameworks:** Django, Flask, FastAPI
-**Databases:** MySQL 
-**Tools & Platforms:**  Git, GitHub, Docker, Postman  
+- **Languages:**  Python  
+- **AI & ML:**    Scikit-learn, TensorFlow, Keras, NLTK, LangChain, RAG, OpenAI APIs, Hugging Face  
+- **Frameworks:** Django, Flask, FastAPI
+- **Databases:**  MySQL 
+- **Tools & Platforms:**  Git, GitHub, Docker, Postman  
 
 ---
 
@@ -29,13 +29,7 @@
 - 🔹 **iCompressor** – Image & PDF Compressor with QR Sharing & API  
 - 🔹 **House Price Predictor** – ML-powered price prediction model  
 - 🔹 **Library Management System** – Python OOP + File handling  
-- 🔹 **GenAI + RAG Chatbot** *(In Progress)* – AI assistant with LangChain & Vector Stores  
-
----
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+- 🔹 **GenAI + RAG Chatbot** *(In Progress)* – AI assistant with LangChain & Vector Stores   
 
 ---
 
