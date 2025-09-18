@@ -24,12 +24,12 @@
 ---
 
 ## 📌 Featured Projects  
-- 🔹 **ChatMe** – Real-time Chat App with Redis + WebSockets  
-- 🔹 **Emanage** – Employee Management System (React + Django + MySQL)  
-- 🔹 **iCompressor** – Image & PDF Compressor with QR Sharing & API  
-- 🔹 **House Price Predictor** – ML-powered price prediction model  
-- 🔹 **Library Management System** – Python OOP + File handling  
-- 🔹 **GenAI + RAG Chatbot** *(In Progress)* – AI assistant with LangChain & Vector Stores   
+🔹 **ChatMe** – Real-time Chat App with Redis + WebSockets  
+🔹 **Emanage** – Employee Management System (React + Django + MySQL)  
+🔹 **iCompressor** – Image & PDF Compressor with QR Sharing & API  
+🔹 **House Price Predictor** – ML-powered price prediction model  
+🔹 **Library Management System** – Python OOP + File handling  
+🔹 **GenAI + RAG Chatbot** *(In Progress)* – AI assistant with LangChain & Vector Stores   
 
 ---
 
