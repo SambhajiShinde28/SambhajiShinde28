@@ -35,7 +35,7 @@
 
 ## 📫 Let's Connect  
 - 💼 LinkedIn: [https://www.linkedin.com/in/sambhaji-shinde-1679ab309/](#)  
-- 🌍 Portfolio: [-](#)  
+- 🌍 Portfolio: [https://portfolio-sambhaji-shinde.streamlit.app/](#)  
 - 📧 Email: **sambhajisshinde725@gmail.com**  
 
 ⭐ *Open to full-time roles, and collaborations in AI, Data Science, and Web Development!*  
